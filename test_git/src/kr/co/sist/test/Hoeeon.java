@@ -8,7 +8,7 @@ public class Hoeeon {
 		System.out.println("heeh");
 		System.out.println("ehhe");
 		System.out.println("heeh");
-		System.out.println("ehhe");
+		System.out.println("ehhe"); 
 		
 	}
 
